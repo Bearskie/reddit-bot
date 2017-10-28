@@ -17,8 +17,9 @@ from openpyxl import Workbook
 r = praw.Reddit(client_id = 'YOUR_CLIENT_ID_HERE', client_secret = 'YOUR_CLIENT_SECRET_HERE', user_agent = "YOUR_USER_AGENT_HERE")
 print("Logging on...")
 
-sub = r.subreddit("polandball")
-file = 'pb_master.xlsx'
+sub_name = 'polandball'
+sub = r.subreddit(sub_name)
+file = sub_name + '_main.xlsx'
 sheet = 'INPUT'
 rest = 604800 #1 week
 clock = time.time() - rest #only fetch posts older than 1 week, give time for scores to stabilize
@@ -26,7 +27,7 @@ clock = time.time() - rest #only fetch posts older than 1 week, give time for sc
 if os.path.isfile(file) == True:
 	wb = load_workbook(filename=file)
 	ws = wb[sheet]
-	wb.save(os.path.splitext(file)[0] + ' - BACKUP.xlsx')
+	wb.save(os.path.splitext(file)[0] + '_backup.xlsx')
 else:
 	wb = Workbook()
 	ws = wb.active

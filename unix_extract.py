@@ -21,7 +21,7 @@ sub = r.subreddit("polandball")
 file = 'pb_master.xlsx'
 sheet = 'INPUT'
 rest = 604800 #1 week
-clock = time.time() - rest
+clock = time.time() - rest #only fetch posts older than 1 week, give time for scores to stabilize
 
 if os.path.isfile(file) == True:
 	wb = load_workbook(filename=file)

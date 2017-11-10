@@ -82,7 +82,7 @@ def write_excel():
 	ws.cell(row = i, column = 6).value = str(post.author.name)
 	ws.cell(row = i, column = 7).value = str(post.title.encode('utf-8'))
 	ws.cell(row = i, column = 8).value = post.score
-	ws.cell(row = i, column = 9).value = str("www.reddit.com" + post.permalink.encode('utf-8'))
+	ws.cell(row = i, column = 9).value = "https://redd.it/" + str(post.id.encode('utf-8')) #str("www.reddit.com" + post.permalink.encode('utf-8'))
 	ws.cell(row = i, column = 10).value = post.num_comments
 	ws.cell(row = i, column = 11).value = str(post.url.encode('utf-8'))
 	

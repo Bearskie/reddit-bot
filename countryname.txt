@@ -1,0 +1,222 @@
+French Guiana/French Guyana
+Guyana/Guiana
+Suriname/Dutch Guyana/Dutch Guiana
+Equatorial Guinea
+Guinea-Bissau/Bissau
+Guinea='Guinea'
+Nigeria
+Niger='Niger'
+Congo/Brazzaville/'ROC'
+Democratic Republic of the Congo/DR Congo/DR  Congo/Zaire/East Congo/'DRC'	
+Czechoslovakia
+Czech Republic=Czech
+Slovakia=Slovak
+Somaliland
+Somalia
+South Sudan='South Sudan'
+Sudan
+ASEAN='ASEAN'
+Afghanistan=Afghan
+Albania
+Algeria
+Andorra
+Angola
+Anguilla
+Antarctica
+Antigua & Barbuda=Antigua/Barbuda
+Argentina=Argentin
+Armenia
+Australia/Aussie
+Austria/Österreich/Osterreich
+Azerbaijan/Azeri
+Bahamas=Bahama
+Bahrain/Bahran
+Bangladesh=Bangla
+Barbados/Barbadian
+Belarus
+Belgium/Belgique/Belgian
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia & Herzegovina=Bosnia/Herzegovina
+Botswana
+Brazil/Brasil
+Brunei
+Bulgaria
+Burkina Faso
+Myanmar/Burma
+Burundi
+Cambodia/Angkor Wat
+Cameroon
+Catalonia/Catalan/Catalun
+Canada/Canadian
+Quebec
+Cape Verde/Cabo Verde
+Cayman Islands=Cayman
+Central African Republic=Central Africa/'CAR'
+Chad
+Chile
+China/Chinese/Zhongguo
+Colombia
+Comoros
+Costa Rica
+Croatia
+Cuba
+Cyprus
+Denmark/Danish/Dane
+Djibouti
+Dominican Republic
+Dominica
+Ecuador
+Egypt
+El Salvador=Salvador
+Eritrea
+Estonia/Eesti
+Ethiopia
+European Union/'EU'
+Fiji
+Finland/Finn/Suomi
+France/French
+Gabon
+Gambia
+Georgia
+Germany=German/Niemcy/Reich/Deutsch
+Nazi Germany=Nazi
+Ghana/Ghanian
+Greece/Greek
+Greenland
+Grenada/Grenadian
+Guadeloupe
+Guatemala=Guatemal
+Haiti
+Honduras=Hondura
+Hong Kong
+Hungary/Hungarian
+Iceland
+India
+Indonesia=Indon
+Iran
+Iraq
+Israel/Jerusalem/Hebrew/jewcube/goyim
+Italy/Italia
+Ivory Coast/Cote d'Ivoire
+Jamaica
+Japan/Nippon/Nihon
+Jordan
+Kazakhstan=Kazakh
+Kenya
+Kosovo
+Kuwait
+Kyrgyzstan=Kyrgyz
+Laos
+Latvia
+Lebanon/Lebanese
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania/Litwa
+Luxembourg
+Macedonia=Macedon
+Madagascar
+Malawi
+Malaysia=Malay/Borneo/Sabah/Sarawak
+Maldives=Maldiv
+Mali='Mali'/Malian
+Malta
+Martinique
+Mauritania
+Mauritius=Mauriti
+Mayotte
+Mexico=Mexic
+Moldova
+Monaco
+Mongolia=Mongol
+Montenegro
+Montserrat
+Morocco/Moroccan
+Mozambique
+Namibia
+Nepal
+Netherlands=Netherland/Dutch/Holland
+New Zealand=Zealand
+Nicaragua
+North Korea/Pyongyang/Kim Jong/'DPRK'/'NK'
+Norway/Norwegian
+Oman
+Omsk
+Pakistan=Paki
+Palau
+Palestine=Palestin
+Panama
+Papua New Guinea/Papua
+Paraguay
+Peru
+Philippines=Philippin/Phillipin/Phillippin/Filipin/Pinoy/Tagalog
+Poland=Pole/Polish/Polska/'Poland'/'poland'/'polan'/'Polan'
+Portugal=Portug
+Puerto Rico=Puerto Ric/Puerto
+Qatar
+Reunion/Réunion
+Romania
+Rome/Roman Empire/'SPQR'
+Russia/Rosja
+Rwanda
+Saint Kitts and Nevis=Saint Kitt/Nevis
+Saint Lucia
+Saint Vincent's & Grenadines=Saint Vincent/Grenadine
+Samoa
+Sao Tome and Principe=Sao Tome/São Tomé
+Saudi Arabia=Saudi
+Sealand
+Senegal
+Serbia=Serb
+Seychelles=Seychell
+Sierra Leone
+Singapore/Tringapore/'sg'/'SG'
+Slovenia
+Solomon Islands
+South Africa
+South Korea/Seoul/'SK'
+Soviet Union=Soviet/'USSR'/'CCCP'
+Spain/Spanish
+Sri Lanka
+Swaziland
+Sweden=Swede/Swedish/Sverige
+Switzerland/Swiss
+Syria
+Taiwan
+Tajikistan=Tajik
+Tanzania
+Thailand=Thai/Bangkok
+Tibet
+Timor Leste/Timor-Leste/East Timor/Timor Timur
+Togo
+Trinidad & Tobago=Trinidad/Tobago
+Tunisia
+Turkey/Turkish/Ottoman
+Turkmenistan
+Turks & Caicos Islands=Caicos
+Tuvalu
+Uganda
+Ukraine/Ukrainian
+United Arab Emirates/'UAE'
+United Kingdom/Britain/British/'UK'/'U K'
+Ireland/Irish
+Wales/Welsh/Cymru
+England/English
+Scotland/Scottish
+United Nations=United Nation/'UN'/'U N'
+United States of America=United States/America/MURICA/'US'/'U S'
+Uruguay
+Uzbekistan=Uzbek
+Vatican
+Venezuela
+Vietnam
+Virgin Islands
+Yemen
+Yugoslavia
+Zambia
+Zimbabwe
